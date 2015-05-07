@@ -53,3 +53,33 @@ Purely typographical experiments, combining the inital letters in different ways
 Without really liking the kind of Mickey-Mousing Apple did there, some approaches to vaguely hide the typography in theme-related objects.
 
 [[1]](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ffiles.softicons.com%2Fdownload%2Fapplication-icons%2Fmac-style-applications-icons-by-c55inator%2Fpng%2F512%2FApplications.png&f=1)
+
+#31
+
+Trying to find the most stereotypic helmet silhouette.
+
+#32-33
+
+Some variations on the Omega theme with written out "age".
+
+#34-35
+
+Abstracting the helmet into an icon together with some variants.
+
+#36
+
+Crossover with the Open Source Initiative logo.
+
+[1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/220px-Opensource.svg.png)
+
+#37
+
+Added a little shape so the negative space resembles a helmet.
+
+#38
+
+Combinations of the previous ideas.
+
+#39-41
+
+Variations on the circle-enclosed negative. Typography is only placeholder.
