@@ -83,3 +83,31 @@ Combinations of the previous ideas.
 #39-41
 
 Variations on the circle-enclosed negative. Typography is only placeholder.
+
+#42
+Combination of lots of the above. Here you have a little shield-shape in the middle and a negative-space head with a crown that is surrounded by an Open `O`.
+
+#43
+Picking up on the antique helmet subject again, now combined with the round frame.
+
+#44
+Ideas on typography. Though ancient writing is fascinating, trying to transform it into readable latin glyphs is goes nowhere here, I think.
+
+[[1]](https://en.wikipedia.org/wiki/Old_Italic_script)
+
+#45
+Plain old classical latin script, sort of like the original AOE.
+
+[[1]](https://upload.wikimedia.org/wikipedia/commons/3/3e/Inscription_displaying_apices_%28from_the_shrine_of_the_Augustales_at_Herculaneum%29.jpg)
+
+#46
+Bringig together the new helmet theme and some letters.
+
+#47
+Another take on the medieval helmet (see 34), getting more abstract.
+
+#48
+Here is a relatively new idea, picking up the concept of rhombic tiles. At the end I tried to bring it together with the Open `O`.
+
+#49-54
+More iteration on the tiles theme.
