@@ -16,7 +16,7 @@
    width="220"
    height="300"
    viewBox="0 0 220 300"
-   sodipodi:docname="helmet-logo.svg">
+   sodipodi:docname="helmet-logo2.svg">
   <metadata
      id="metadata4260">
     <rdf:RDF>
@@ -25,14 +25,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs4258" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
+     pagecolor="#ffffac"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -44,13 +44,15 @@
      inkscape:window-height="710"
      id="namedview4256"
      showgrid="false"
-     inkscape:zoom="1.4396694"
-     inkscape:cx="-36.823999"
-     inkscape:cy="163.92083"
+     inkscape:zoom="1.018"
+     inkscape:cx="126.63852"
+     inkscape:cy="231.49136"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4254" />
+     inkscape:current-layer="svg4254"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <image
      width="400"
      height="500"
@@ -62,17 +64,18 @@
      style="opacity:0" />
   <g
      id="g5269"
-     transform="translate(-101.05497,-96.93374)">
+     transform="translate(-104.0895,-96.81095)">
     <path
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 103.1582,55.070312 69.123047,82.853516 55.925781,72.435547 17.027344,132.17188 110.79883,158.56641 54.537109,195.38086 73.291016,210.66211 26.751953,281.51172 167.75586,219.69141 151.08594,200.24219 183.73242,137.0332 103.1582,55.070312 Z m -43.849606,37.830079 8.9375,6.398437 -19.234375,29.689452 -10.822266,-3.18164 21.119141,-32.906249 z m 17.892578,12.806639 8.953125,6.41016 -15.123047,23.34179 -11.007812,-3.23632 17.177734,-26.51563 z m 17.90625,12.81836 8.962888,6.41602 -11.00781,16.99218 -11.019531,-3.24023 13.064453,-20.16797 z"
+       d="M 103.1582,55.070312 69.859375,82.117188 55.925781,72.435547 17.027344,132.17188 l 93.771486,26.39453 -56.261721,36.81445 18.753907,15.28125 -46.539063,70.84961 141.003907,-61.82031 -16.66992,-19.44922 32.64648,-64.25 L 103.1582,55.070312 Z M 58.960938,88.552734 68.279297,94.869141 46.351562,128.73242 35.207031,125.33984 58.960938,88.552734 Z m 18.839843,12.771486 9.533203,6.46289 -18.078125,27.91601 -11.460937,-3.48828 20.005859,-30.89062 z m 19.054688,12.91601 9.386721,6.36329 -14.257815,22.01757 -11.283203,-3.43359 16.154297,-24.94727 z"
        transform="translate(101.05508,96.93336)"
        id="path4264"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
        id="path4266"
-       d="m 211.68959,144.40079 28.97839,28.97839 8.84086,-7.36739 54.51867,66.79764 -27.99607,-117.38703 -56.4833,9.82318 z"
-       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 212.54912,144.15521 28.97839,28.97839 8.84086,-7.36739 59.7282,60.1989 L 276.89097,115.17682 220.40767,125 Z"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
